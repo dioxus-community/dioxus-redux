@@ -1,0 +1,22 @@
+[package]
+name = "dioxus-redux"
+description = ""
+version = "0.3.1"
+edition = "2021"
+license = "MIT"
+authors = ["Marc Espín <mespinsanz@gmail.com>"]
+readme = "./README.md"
+homepage = "https://github.com/marc2332/dioxus-query"
+repository = "https://github.com/marc2332/dioxus-query"
+keywords = ["dioxus", "state"]
+categories = ["gui"]
+
+[dependencies]
+dioxus-core = "0.4"
+dioxus-hooks = "0.4"
+futures-util = "0.3.28"
+
+[dev-dependencies]
+dioxus = "0.4"
+dioxus-desktop = "0.4"
+tokio = { version = "1.29.1", features = ["time"] }

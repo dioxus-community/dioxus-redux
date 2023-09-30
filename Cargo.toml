@@ -15,7 +15,7 @@ categories = ["gui"]
 dioxus-core = "0.4"
 dioxus-hooks = "0.4"
 futures-util = "0.3.28"
-tokio = { version = "1.29.1", features = ["time"] }
+async-channel = "1.9.0"
 
 [dev-dependencies]
 dioxus = "0.4"

@@ -10,7 +10,6 @@ fn main() {
     dioxus_desktop::launch(app);
 }
 
-#[derive(Clone)]
 struct CoolStore {
     tasks: Vec<String>,
 }

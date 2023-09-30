@@ -2,6 +2,6 @@
 
 ⚠️ **Work in progress !!⚠️**. This is still just a dummy experiment.
 
-**Fully-typed state management** for [Dioxus 🧬](https://dioxuslabs.com/).
+**Fully-typed event-based state management** for [Dioxus 🧬](https://dioxuslabs.com/).
 
 MIT License

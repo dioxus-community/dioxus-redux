@@ -71,7 +71,7 @@ pub struct ReduxStore<S: Store> {
 }
 
 impl<S: Store> ReduxStore<S> {
-    pub fn handle(&self, event: S::Event) {
+    fn handle(&self, event: S::Event) {
         // Notify the store of the new event
         self.store.borrow_mut().handle(event);
 

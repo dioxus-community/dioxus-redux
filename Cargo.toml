@@ -6,8 +6,8 @@ edition = "2021"
 license = "MIT"
 authors = ["Marc Espín <mespinsanz@gmail.com>"]
 readme = "./README.md"
-homepage = "https://github.com/marc2332/dioxus-query"
-repository = "https://github.com/marc2332/dioxus-query"
+homepage = "https://github.com/marc2332/dioxus-redux"
+repository = "https://github.com/marc2332/dioxus-redux"
 keywords = ["dioxus", "state"]
 categories = ["gui"]
 

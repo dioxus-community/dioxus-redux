@@ -1,4 +1,4 @@
-[![Discord Server](https://img.shields.io/discord/1015005816094478347.svg?logo=discord&style=flat-square)](https://discord.gg/TjuBM6FNYN)
+[![Discord Server](https://img.shields.io/discord/899851952891002890.svg?logo=discord&style=flat-square)](https://discord.gg/sKJSVNSCDJ)
 
 # dioxus-redux 🦀🧰
 
